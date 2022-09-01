@@ -702,3 +702,137 @@ div {
     background: url(./Img/HOOP\ copy.JPG);
     border-radius: 15px;
 }
+
+.section6 {
+    /* CATEGORIES */
+    position: absolute;
+    width: 1450px;
+    height: 720px;
+    left: 0px;
+    top: 3125px;
+    margin: auto;height: 788px;
+
+    background: rgb(255, 255, 255)
+}
+
+#categories {
+    /* CATEGORIES */
+
+    position: absolute;
+    width: 280px;
+    height: 5px;
+    left: 20px;
+    top: 5px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 250;
+    font-size: 20px;
+    line-height: 30px;
+
+    /* identical to box height, or 86% */
+
+    letter-spacing: -0.015em;
+    color: #E5E5E5;
+}
+
+#cat {
+    /* You’re in good company */
+
+    position: absolute;
+    left: 25%;
+    right: 26.51%;
+    top: 2%;
+
+    font-family: 'Montserrat';
+    font-style: small;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 72px;
+    /* identical to box height, or 200% */
+
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: #D9D9D9;
+}
+
+#pcat{
+    /*CATEGORIES PARAGRAPGH*/
+
+    position: absolute;
+    left: 25%;
+    right: 25.14%;
+    top: 14%;
+    bottom: 0%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: medium;
+    line-height: 50px;
+
+    /* or 250% */
+
+    text-align: center;
+    letter-spacing: -0.015em;
+
+    color: #D9D9D9;
+}
+
+#f1 {
+    /* F1 1 */
+
+    position: absolute;
+    width: 300px;
+    height: 505px;
+    left: 50px;
+    top: 200px;
+
+    background: url(./Img/F1\ copy.JPG);
+    border-radius: 15px;
+}
+
+#mufasa{
+
+    /*MUFASA*/
+
+    position: absolute;
+    width: 300px;;
+    height: 500px;
+    left: 400px;
+    top: 200px;
+
+    background: urL(./Img/MUFASA\ copy.jpg);
+    border-radius: 15px;
+}
+
+#dance{
+position: absolute;
+    width: 300px;;
+    height: 500px;
+    left: 750px;
+    top: 200px;
+
+    background: urL(./Img/DANCE\ \ copy.JPG);
+    border-radius: 15px;
+}
+
+#af{position: absolute;
+    width: 300px;;
+    height: 500px;
+    left: 750px;
+    top: 200px;
+
+    background: urL(./Img/AFRICANA.JPG);
+    border-radius: 15px;
+}
+
+#bunny{position: absolute;
+    width: 300px;;
+    height: 500px;
+    left: 1100px;
+    top: 200px;
+
+    background: urL(./Img/BUNNY\ copy.JPG);
+    border-radius: 15px;
+}
