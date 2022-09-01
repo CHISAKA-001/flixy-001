@@ -571,3 +571,134 @@ div {
     background: url(Img/WOW\ copy.JPG);
     border-radius: 15px;
 }
+
+.section5 {
+    /* WATCHING NOW*/ 
+
+    position: absolute;
+    width: 1450px;
+    height: 622px;
+    left: 0px;
+    top: 2400px;
+    margin: auto;height: 700px;
+
+    background: #000000;
+}
+
+#watching {
+    /* WATCHING NOW */
+
+    position: absolute;
+    width: 280px;
+    height: 5px;
+    left: 20px;
+    top: 5px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 250;
+    font-size: 20px;
+    line-height: 30px;
+
+    /* identical to box height, or 86% */
+
+    letter-spacing: -0.015em;
+    color: #E5E5E5;
+}
+
+#huey {
+    /* BOONDOCKS 1 */
+
+    position: absolute;
+    width: 464px;
+    height: 517px;
+    left: 536px;
+    top: 47px;
+
+    background: url(./Img/BOONDOCKS.JPG);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 15px;
+}
+
+#afro{
+    /*afro title*/
+
+    position: absolute;
+    width: 686px;
+    height: 36px;
+    left: 40px;
+    top: 150px;
+
+    /* Body H4 */
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 30px;
+
+    /* identical to box height, or 150% */
+
+    letter-spacing: -0.015em;
+
+    color: #D9D9D9;
+}
+
+#fro {
+    /*description*/
+
+    position: absolute;
+    width: 492px;
+    height: 85px;
+    left: 25px;
+    top: 255px;
+
+    /* Body P */
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 150;
+    font-size: small;
+    line-height: 30px;
+
+    /* or 167% */
+
+    letter-spacing: -0.015em;
+
+    color: #D1D1D1;
+
+}
+
+#stream {
+    /* STREAM NEXT */
+
+    position: absolute;
+    width: 206px;
+    height: 30px;
+    left: 82%;
+    top: 88px;
+
+    font-family: 'Inter';
+    font-style:normal;
+    font-weight: 250;
+    font-size: small;
+    line-height: 30px;
+    /* identical to box height, or 100% */
+
+    letter-spacing: -0.015em;
+
+    color: #E5E5E5;
+}
+
+#magic {
+    /*magic*/
+
+    position: absolute;
+    width: 265px;
+    height: 309px;
+    left: 76%;
+    top: 151px;
+
+    background: url(./Img/HOOP\ copy.JPG);
+    border-radius: 15px;
+}
