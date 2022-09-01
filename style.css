@@ -465,3 +465,109 @@ body {
     background: url(./Img/BLUE\ MAN\ \ copy.JPG);
     border-radius: 15px;
 }
+
+.section4{
+    /* TRENDING NOW */
+
+    position: absolute;
+    width: 1450px;
+    left: 0px;
+    top: 1530px;
+    margin: auto;height: 785px;
+
+    background: #303030;
+}
+
+div {
+    column-gap: 4px double #ffff;
+}
+
+#trending {
+    /* TRENDING NOW */
+
+    position: absolute;
+    width: 252px;
+    height: 5px;
+    left: 18.4px;
+    top: 5px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 250;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+
+    color: #FFFFFF;
+}
+
+#smile {
+    /* smile */
+
+    position: absolute;
+    width: 250px;
+    height: 443px;
+    left: 31px;
+    top: 143px;
+
+    background-image: url(./Img/JOKER2.JPG);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 15px;
+}
+
+#chik {
+   /* chik */
+
+
+    position: absolute;
+    width: 193px;
+    height: 338px;
+    left: 305px;
+    top: 196px;
+
+    background: url(./Img/CHIKK\ copy.JPG);
+    border-radius: 15px; 
+}
+
+#knd {
+    /* knd */
+
+    position: absolute;
+    width: 223px;
+    height: 338px;
+    left: 525px;
+    top: 194px;
+
+    background: url(./Img/KND.JPG);
+    border-radius: 15px;
+}
+
+#beach {
+    /* beach */
+
+    position: absolute;
+    width: 286px;
+    height: 342px;
+    left: 775px;
+    top: 194px;
+
+    background: url(./Img/BEACH.JPG);
+    border-radius: 15px;
+}
+
+#wow {
+    /* wow */
+
+
+    position: absolute;
+    width: 282px;
+    height: 338px;
+    left: 1085px;
+    top: 194px;
+
+    background: url(Img/WOW\ copy.JPG);
+    border-radius: 15px;
+}
