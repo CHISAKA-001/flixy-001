@@ -159,3 +159,205 @@ body {
     background: #E50914;
     border-radius: 6px;
 }
+
+.section2 {
+    /* LANDING PAGE */
+
+    position: absolute;
+    width: 1450px;
+    height: 720px;
+    left: 0px;
+    top: 110px;
+
+    /*background: #FFFFFF;*/
+
+    white-space: nowrap;
+
+    background-image: url(./Img/LANDING2.2.png);
+    position: absolute;
+    width: 1450px;
+    height: 606px;
+}
+
+#p1{
+    /*container p1 H1*/
+
+    position: absolute;
+    width: 1000px;
+    height: 80px;
+    left: 140px;
+    top: 93px;
+
+    /* p1 text */
+
+    position: absolute;
+    left: 150px;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    /* p1 H1 */
+
+    font-family: 'Montserrat';
+    font-style: normal; 
+    font-weight: 100;
+    font-size: 50px;
+    line-height: 150px;
+
+    /* identical to box height, or 143% */
+
+    text-align: center;
+    letter-spacing: -0.015em;
+
+    color: #ffffff;
+
+}
+
+#p2 {
+    /* container p2 H4*/
+
+    position: absolute;
+    width: 1392px;
+    height: 80px;
+    left: -25px;
+    top: 310px;
+
+    /* p2 H4 text*/
+
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 30%;
+    bottom: 0%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 35px;
+    line-height: 80px;
+
+    /* identical to box height, or 200% */
+
+    text-align: center;
+    letter-spacing: -0.015em;
+
+    color: #FFFFFF;
+
+}
+
+#p3 {
+    /* container p3 p */
+
+    position: absolute;
+    width: 1392px;
+    height: 80px;
+    left: 0px;
+
+    /* p3 p text */
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 40%;
+    bottom: 0%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 80px;
+
+    /* identical to box height, or 267% */
+
+    text-align: center;
+    letter-spacing: -0.015em;
+
+    color: #ffffff;
+}
+
+.join {
+    /* email container */
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 400px;
+    height: 35px;
+    left: 35%;
+    top: 435px;
+
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+
+}
+
+#email{
+    /* Email address */ /*Ajust email position */
+
+    position: absolute;
+    width: 390px;
+    height: 28px;
+    margin-left: auto;
+    
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    
+
+    /* identical to box height, or 160% */
+
+    letter-spacing: -0.015em;
+
+    color: rgba(0, 0, 0, 0.8);
+}
+
+#joinbtn {
+    /*  btn */
+
+    /*position: absolute;
+    width: 159px;
+    height: 52px;
+    left: 779px;
+    top: 432px;*/
+
+    /* Button Primary Button*/
+
+    position: absolute;
+    width: 100px;
+    height: 33px;
+    left: 75%;
+
+    background: #FFFFFF;
+    border-radius: 1px;
+
+     /* Join Today */
+
+     font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    
+
+    /* identical to box height */
+
+    
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+
+    color: #FFFFFF;
+
+    /* Rectangle 2 */
+
+
+    position: absolute;
+    top: 0%;
+    bottom: 0%;
+
+    background: #E50914;
+    border-radius: 1px;
+}
