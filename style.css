@@ -836,3 +836,149 @@ position: absolute;
     background: urL(./Img/BUNNY\ copy.JPG);
     border-radius: 15px;
 }
+
+.section7 {
+    /* FAQS BODY*/
+
+    position: absolute;
+    width: 1450px;
+    height: 100vh;
+    left: 0px;
+    top: 3900px;
+
+background: #303030;
+}
+
+#faqs{
+    /* FAQS */
+
+    position: absolute;
+    width: 75px;
+    height: 30px;
+    left: 19px;
+    top: 5px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 250;
+    font-size: 25px;
+    line-height: 30px;
+    
+    /* identical to box height, or 100% */
+
+    text-align: center;
+    letter-spacing: -0.015em;
+
+    color: #E5E5E5;
+}
+
+
+
+
+
+#sub {
+    /*SUB BTN*/
+
+    position: absolute;
+    width: 170px;
+    height: 52px;
+    left: 860px;
+    top: 244px;
+
+    /* SUBSCRIBE */
+
+
+    position: absolute;
+    left: 22.51%;
+    right: 23.33%;
+    top: 29.42%;
+    bottom: 30.19%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: -0.015em;
+        
+    color: #FFFFFF;
+
+    /*SUB FRAME */
+
+    position: absolute;
+    left: 60%;
+    right: 0%;
+    top: 60%;
+    bottom: 0%;
+
+    background: #E50914;
+    border-radius: 6px;
+}
+
+#watchlist{
+    /*WATCH BTN*/
+
+    position: absolute;
+    width: 170px;
+    height: 52px;
+    left: 860px;
+    top: 244px;
+
+    /* WATCH */
+
+
+    position: absolute;
+    left: 22.51%;
+    right: 23.33%;
+    top: 29.42%;
+    bottom: 30.19%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+
+    /* identical to box height */
+
+    text-align: center;
+    
+    letter-spacing: -0.015em;
+
+    color: #18A0FB;
+
+    /*SUB FRAME */
+
+    position: absolute;
+    left: 75%;
+    right: 0%;
+    top: 60%;
+    bottom: 0%;
+
+    background:#ffff; 
+    border-radius: 6px;
+}
+
+#faqsp {
+    position: absolute;
+    width: 743px;
+    height: 60px;
+    left: 15%;
+    top: 60%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: medium;
+    line-height: 50px;
+
+    /* or 278% */
+
+    letter-spacing: -0.015em;
+
+    color: #C4C4C4;
+}
