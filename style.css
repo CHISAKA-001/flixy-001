@@ -994,3 +994,164 @@ background: #303030;
 
     background: #000000;
 }
+
+#rvw {
+   /* REVIEW */
+
+   position: absolute;
+   width: 75px;
+   height: 30px;
+   left: 19px;
+   top: 5px;
+
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 250;
+   font-size: 25px;
+   line-height: 30px;
+   
+   /* identical to box height, or 100% */
+
+   text-align: center;
+   letter-spacing: -0.015em;
+
+   color: #E5E5E5 
+}
+
+#r1 {
+    /* CC REVIEW */
+
+    position: absolute;
+    width: 257px;
+    height: 36px;
+    left: 38px;
+    top: 59px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+
+    /* identical to box height, or 257% */
+
+    letter-spacing: -0.015em;
+
+    color: #D9D9D9;
+
+}
+
+#r1p {
+    /*COMMENT*/
+
+    position: absolute;
+    width: 382px;
+    height: 90px;
+    left: 39px;
+    top: 150px;
+    
+    /* Body P */
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+    
+    letter-spacing: -0.015em;
+    
+    color: #D9D9D9;   
+}
+
+#r2 {
+   /* L'VERT*/
+
+    position: absolute;
+    width: 257px;
+    height: 36px;
+    left: 482px;
+    top: 59px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+
+    /* identical to box height, or 257% */
+
+    letter-spacing: -0.015em;
+
+color: #D9D9D9; 
+}
+
+#r2p {
+    /*COMMENTS*/
+
+    position: absolute;
+    width: 353px;
+    height: 51px;
+    left: 482px;
+    top: 150px;
+
+    /* Body P */
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    
+    /* or 167% */
+
+    letter-spacing: -0.015em;
+
+    color: #C4C4C4;
+
+}
+
+#r3 {
+    /*SOLA*/
+
+    position: absolute;
+    width: 257px;
+    height: 36px;
+    left: 889px;
+    top: 59px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 36px;
+
+    /* identical to box height, or 257% */
+
+    letter-spacing: -0.015em;
+
+    color: #D9D9D9;
+}
+
+#r3p {
+    /*COMMENTS*/
+    position: absolute;
+    width: 353px;
+    height: 51px;
+    left: 889px;
+    top: 150PX;
+
+    /* Body P */
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+
+    letter-spacing: -0.015em;
+
+    color: #D9D9D9;
+
+}
