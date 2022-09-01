@@ -1123,7 +1123,7 @@ color: #D9D9D9;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 30px;
     line-height: 36px;
 
     /* identical to box height, or 257% */
@@ -1153,5 +1153,287 @@ color: #D9D9D9;
     letter-spacing: -0.015em;
 
     color: #D9D9D9;
+}
+
+
+#info1 {
+    /* Cookie Preferences */
+
+    position: absolute;
+    width: 173px;
+    height: 24px;
+    left: 80px;
+    top: 290px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    letter-spacing: -0.015em;
+
+    color: #FFFFFF;
+}
+
+#info2{
+    /* Privacy */
+
+    position: absolute;
+    width: 173px;
+    height: 24px;
+    left: 270px;
+    top: 290px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    letter-spacing: -0.015em;
+
+    color: #FFFFFF;
+}
+
+#info3{
+    /* Company */
+
+    position: absolute;
+    width: 173px;
+    height: 24px;
+    left: 364px;
+    top: 290px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    letter-spacing: -0.015em;
+
+    color: #FFFFFF;
+}
+
+#info4{
+    /* Help Center */
+
+    position: absolute;
+    width: 173px;
+    height: 24px;
+    left: 900px;
+    top: 290px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-align: right;
+    letter-spacing: -0.015em;
+
+    color: #FFFFFF;
+}
+
+#info5{
+    /* Contact Us */
+
+    position: absolute;
+    width: 173px;
+    height: 24px;
+    left: 1050px;
+    top: 290px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-align: right;
+    letter-spacing: -0.015em;
+
+    color: #FFFFFF;
+}
+
+#info6{
+    /* Account */
+
+    position: absolute;
+    width: 173px;
+    height: 24px;
+    left: 1150px;
+    top: 290px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-align: right;
+    letter-spacing: -0.015em;
+
+    color: #FFFFFF;
+}
+
+#footlogo{
+    /* flixy */
+
+    position: absolute;
+    left: 47 %;
+    right: 0%;
+    top: -100px;
+    bottom: 0%;
+
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28.4444px;
+    line-height: 32px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+
+    color: #E5E5E5;
+}
+
+#info7{
+    /* Corprate Information */
+
+    position: absolute;
+    width: 173px;
+    height: 24px;
+    left: 80px;
+    top: 320px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    letter-spacing: -0.015em;
+
+    color: #D1D1D1;
+}
+
+#info8{
+   /* Jobs */
+
+    position: absolute;
+    width: 173px;
+    height: 24px;
+    left: 273px;
+    top: 320px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    letter-spacing: -0.015em;
+
+    color: #D1D1D1; 
+}
+
+#info9 {
+   /* Legal Notice */
+
+    position: absolute;
+    width: 173px;
+    height: 24px;
+    left: 364px;
+    top: 320px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    letter-spacing: -0.015em;
+
+    color: #D1D1D1; 
+}
+
+#info10{
+    /* Terms of Use */
+
+    position: absolute;
+    width: 173px;
+    height: 24px;
+    left: 900px;
+    top: 320px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-align: right;
+    letter-spacing: -0.015em;
+
+    color: #D1D1D1;
+}
+#info11 {
+    /* Ways to Watch */
+
+    position: absolute;
+    width: 173px;
+    height: 24px;
+    left: 1050px;
+    top: 320px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-align: right;
+    letter-spacing: -0.015em;
+
+    color: #C4C4C4;
+}
+
+#info12 {
+    /* FAQS */
+
+    position: absolute;
+    width: 173px;
+    height: 24px;
+    left: 1150px;
+    top: 320px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
+
+    text-align: right;
+    letter-spacing: -0.015em;
+
+    color: #C4C4C4;
 
 }
