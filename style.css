@@ -982,3 +982,15 @@ background: #303030;
 
     color: #C4C4C4;
 }
+
+.section8 {
+    /* Footer C */
+
+    position: absolute;
+    width: 1450px;
+    height: 100vh;
+    left: 0px;
+    top: 4700px;
+
+    background: #000000;
+}
