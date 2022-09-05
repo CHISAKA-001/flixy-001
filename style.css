@@ -134,6 +134,7 @@ body {
     height: 40px;
     left: 1136px;
     top: 24px;
+    cursor: pointer;
 
     /* Register */
 
@@ -196,8 +197,12 @@ nav a :hover ::after {
     background-color: #18A0FB;
 }
 
-
-
+.icons1 i,
+.icons1 a{
+    cursor: pointer;
+    color: #ffffff;
+    margin: left 5rem; 
+}
 
 
 
