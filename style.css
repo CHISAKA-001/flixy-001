@@ -167,44 +167,7 @@ body {
     background: #E50914;
     border-radius: 6px;
 }
-    /*HOVER*
-.navbar a.hover {
-    /*HOVER*
-
-    background: blue;
-}*/
-
-nav a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-nav a::after{
-    /*HOVER AFTER*/
-    content: '';
-    width: 0;
-    height: 2px;
-    display: block;
-    background-color: #18A0FB;
-    transition: all .25s ease-in-out;
-}
-
-nav a :hover ::after {
-    content: '';
-    width: 100%;
-    height: 2px;
-    display: block;
-    background-color: #18A0FB;
-}
-
-.icons1 i,
-.icons1 a{
-    cursor: pointer;
-    color: #ffffff;
-    margin: left 5rem; 
-}
-
-
+  
 
 .section2 {
     /* LANDING PAGE */
@@ -456,6 +419,22 @@ nav a :hover ::after {
 
     background: url(./Img/GN.JPG);
     border-radius: 15px;
+
+    /*HEADER*/
+
+    font-family: 'Montserrat';
+    font-style: normal; 
+    font-weight: 100;
+    font-size: 50px;
+    line-height: 150px;
+
+    /* identical to box height, or 143% */
+
+    text-align: center;
+    letter-spacing: -0.015em;
+
+    color: #ffffff;
+
 }
 
 #mini {
@@ -469,6 +448,21 @@ nav a :hover ::after {
 
     background: url(./Img/MINIONS\ copy.JPG);
     border-radius: 15px;
+
+    /*HEADER*/
+    font-family: 'Montserrat';
+    font-style: normal; 
+    font-weight: 50;
+    font-size: 50px;
+
+    /* identical to box height, or 143% */
+
+    text-align:left;
+    letter-spacing: -0.015em;
+
+    color: #000;
+
+
 }
 
 #rat {
@@ -483,6 +477,12 @@ nav a :hover ::after {
     background: url(./Img/RAT\ CHEESE\ copy.JPG);
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     border-radius: 15px;
+
+    /*HEADER*/
+    font-family: 'Montserrat';
+    font-style: normal; 
+    font-weight: 50;
+    font-size: 45px;
 }
 
 #loofy {
@@ -496,6 +496,14 @@ nav a :hover ::after {
 
     background: url(./Img/LOFFY\ copy.JPG);
     border-radius: 15px;
+
+    /*HEADER*/
+    font-family: 'Montserrat';
+    font-style: normal; 
+    font-weight: 50;
+    font-size: 40px;
+
+    color: #ffffff;
 }
 
 #blue {
@@ -510,7 +518,16 @@ nav a :hover ::after {
 
     background: url(./Img/BLUE\ MAN\ \ copy.JPG);
     border-radius: 15px;
+
+    /*HEADER*/
+    font-family: 'Montserrat';
+    font-style: normal; 
+    font-weight: 50;
+    font-size: 40px;
+
+    color: blaCK;
 }
+
 
 .section4{
     /* TRENDING NOW */
@@ -562,6 +579,17 @@ div {
     background-image: url(./Img/JOKER2.JPG);
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     border-radius: 15px;
+
+    /*HEADER*/
+    font-family: 'Montserrat';
+    font-style: normal; 
+    font-weight: 20;
+    font-size: 40px;
+    text-align: center;
+    
+    
+
+    color:white;
 }
 
 #chik {
@@ -576,6 +604,15 @@ div {
 
     background: url(./Img/CHIKK\ copy.JPG);
     border-radius: 15px; 
+
+
+    /*HEADER*/
+    font-family: sans-serif;
+    font-style: normal; 
+    font-weight: 20;
+    font-size: 20px;
+        
+    color: lightsteelblue;
 }
 
 #knd {
@@ -589,6 +626,17 @@ div {
 
     background: url(./Img/KND.JPG);
     border-radius: 15px;
+
+    /*HEADER*/
+    font-family: 'Montserrat';
+    font-style: normal; 
+    font-weight: 20;
+    font-size: 40px;
+    text-align: center;
+    
+    
+
+    color:white;
 }
 
 #beach {
@@ -602,6 +650,14 @@ div {
 
     background: url(./Img/BEACH.JPG);
     border-radius: 15px;
+
+    /*HEADER*/
+    font-family: 'Montserrat';
+    font-style: normal; 
+    font-weight: 20;
+    font-size: 40px;
+
+    color:white;
 }
 
 #wow {
@@ -616,6 +672,17 @@ div {
 
     background: url(Img/WOW\ copy.JPG);
     border-radius: 15px;
+
+    /*HEADER*/
+    font-family: 'Montserrat';
+    font-style: normal; 
+    font-weight: 20;
+    font-size: 40px;
+    text-align: center;
+    
+    
+
+    color:white;
 }
 
 .section5 {
@@ -836,7 +903,17 @@ div {
 
     background: url(./Img/F1\ copy.JPG);
     border-radius: 15px;
-}
+
+     /*HEADER*/
+     font-family: sans-serif;
+     font-style: normal; 
+     font-weight: 20;
+     font-size: 20px;
+     text-align: center;
+         
+     color: lightsteelblue;
+ }
+ 
 
 #mufasa{
 
@@ -850,6 +927,15 @@ div {
 
     background: urL(./Img/MUFASA\ copy.jpg);
     border-radius: 15px;
+
+     /*HEADER*/
+     font-family: sans-serif;
+     font-style: normal; 
+     font-weight: 20;
+     font-size: 20px;
+     text-align: center;
+         
+     color: lightsteelblue;
 }
 
 #dance{
@@ -871,6 +957,15 @@ position: absolute;
 
     background: urL(./Img/AFRICANA.JPG);
     border-radius: 15px;
+
+     /*HEADER*/
+     font-family: sans-serif;
+     font-style: normal; 
+     font-weight: 20;
+     font-size: 20px;
+     text-align: center;
+         
+     color: lightsteelblue;
 }
 
 #bunny{position: absolute;
@@ -881,6 +976,7 @@ position: absolute;
 
     background: urL(./Img/BUNNY\ copy.JPG);
     border-radius: 15px;
+
 }
 
 .section7 {
@@ -918,10 +1014,6 @@ background: #303030;
     color: #E5E5E5;
 }
 
-
-
-
-
 #sub {
     /*SUB BTN*/
 
@@ -956,7 +1048,7 @@ background: #303030;
     /*SUB FRAME */
 
     position: absolute;
-    left: 60%;
+    left: 65%;
     right: 0%;
     top: 60%;
     bottom: 0%;
@@ -1000,7 +1092,7 @@ background: #303030;
     /*SUB FRAME */
 
     position: absolute;
-    left: 75%;
+    left: 80%;
     right: 0%;
     top: 60%;
     bottom: 0%;
@@ -1009,12 +1101,30 @@ background: #303030;
     border-radius: 6px;
 }
 
+#e-subs{
+    position: absolute;
+    width: 710px;
+    height: 45px;
+    left: 15.5%;
+    top: 60%;
+
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: medium;
+    line-height: 50px;
+
+}
+
+
+
 #faqsp {
     position: absolute;
     width: 743px;
     height: 60px;
     left: 15%;
-    top: 60%;
+    top: 65%;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -1025,6 +1135,7 @@ background: #303030;
     /* or 278% */
 
     letter-spacing: -0.015em;
+    text-align: center;
 
     color: #C4C4C4;
 }
