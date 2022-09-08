@@ -2,6 +2,7 @@
 
 let log = console.log();
 
+//game api NBA console.log(response))
 const options = {
 	method: 'GET',
 	headers: {
@@ -25,6 +26,6 @@ fetch('https://imdb8.p.rapidapi.com/auto-complete?q=NBA', options)
 
 
 
-//game api NBA console.log(response))
+
 
 
