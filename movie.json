@@ -1,0 +1,29 @@
+
+[
+    {
+        "name": "COMING SOON",
+        "numberOfMovies": 5,
+        "rating": " ",
+        "movies":["SIFA", "MINI", "RATATOUILLE", "ONE PIECE", "BLUE SMURF"]
+    },
+    {
+        "name": "TRENDING NOW",
+        "numberOfMovies": 5,
+        "rating": " ",
+        "movies":["SMILE", "PEACHES", "KND", "LIFE", "SPACE"]
+    },
+    {
+        "name": "WATCHING NOW",
+        "numberOfMovies": 2,
+        "rating": " ",
+        "movies":[ ]
+    },
+    {
+        "name": "CATEGORIES",
+        "numberOfMovies": 4,
+        "rating": " ",
+        "movies":["RACING", "ACTION", "EDUCATIONAL", "GOOFY"]
+    }
+
+]
+

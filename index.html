@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>flixy</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="/Img/">
+    <link rel="stylesheet" href="./Img/">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 
@@ -18,13 +18,15 @@
                 <div></div>
                 <header id="nav">
                     <div>
-                        <a href="a"><h3 id="logo">flixy</h3></a>
+                        <a href="#"><h3 id="logo">flixy</h3></a>
                     </div>
                     <div>
                         <nav class="navbar">
                             <ul>
-                                <li><a href="#"><button id="log" >LOG IN</button></a></li>>
-                                <li><a href="#"><button id="sign" >SIGN IN</button></a></li>>
+                                <li><a href="#"><button onclick="revealMessage()" id="log" >LOG IN</button></a></li>>
+                                <p id="hiddenMessage">Log in In To Your Account</p>
+                                <li><a href="#"><button onclick="revealMessage1()" id="sign" >SIGN IN</button></a></li>>
+                                <p id="hiddenMessage1">Sign In Now to Flixy</p>
                             </ul>
                         </nav>
                     </div>
@@ -216,6 +218,7 @@
     <div></div>
     <div></div>
     <!--JavaScript file-->
-    <script src="main.js "></script>
+    <script src="index.js"></script>
+    
 </body>
 </html>

@@ -17,6 +17,7 @@ body {
     width: 100%;
     max-width: 100%;
     overflow-x: hidden;
+    
 }
 
 #section1 {
@@ -71,6 +72,8 @@ body {
     letter-spacing: -0.015em;
 
     color: #C4C4C4;
+
+    cursor: pointer;
 }
 
 #log {
@@ -122,6 +125,14 @@ body {
 
     border: 1px solid #18A0FB;
     border-radius: 6px
+
+}
+
+
+#hiddenMessage1{
+    display: none;
+    color: #fff;
+    
 }
 
 #sign{
@@ -167,7 +178,12 @@ body {
     background: #E50914;
     border-radius: 6px;
 }
-  
+
+#hiddenMessage1{
+    display: none;
+    color: #fff;
+    
+}
 
 .section2 {
     /* LANDING PAGE */
@@ -394,6 +410,7 @@ body {
     height: 5px;
     left: 18.4px;
     top: 5px;
+    cursor: pointer;
 
     font-family: 'Inter';
     font-style: normal;
@@ -586,6 +603,7 @@ div {
     height: 5px;
     left: 18.4px;
     top: 5px;
+    cursor: pointer;
 
     font-family: 'Inter';
     font-style: normal;
@@ -774,6 +792,7 @@ div {
     height: 5px;
     left: 20px;
     top: 5px;
+    cursor: pointer;
 
     font-family: 'Inter';
     font-style: normal;
@@ -816,6 +835,7 @@ div {
     height: 36px;
     left: 40px;
     top: 150px;
+    cursor: pointer;
 
     /* Body H4 */
 
@@ -873,6 +893,7 @@ div {
     height: 30px;
     left: 82%;
     top: 88px;
+    cursor: pointer;
 
     font-family: 'Inter';
     font-style:normal;
@@ -928,6 +949,7 @@ div {
     height: 5px;
     left: 20px;
     top: 5px;
+    cursor: pointer;
 
     font-family: 'Inter';
     font-style: normal;
@@ -1124,6 +1146,7 @@ background: #303030;
     height: 30px;
     left: 19px;
     top: 5px;
+    cursor: pointer;
 
     font-family: 'Inter';
     font-style: normal;
@@ -1285,6 +1308,7 @@ background: #303030;
    height: 30px;
    left: 19px;
    top: 5px;
+   cursor: pointer;
 
    font-family: 'Inter';
    font-style: normal;
@@ -1575,6 +1599,7 @@ color: #D9D9D9;
     right: 0%;
     top: -100px;
     bottom: 0%;
+    cursor: pointer;
 
     font-family: 'Comfortaa';
     font-style: normal;
